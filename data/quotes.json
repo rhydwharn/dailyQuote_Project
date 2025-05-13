@@ -1,123 +1,152 @@
 [
     {
+      "id": 1,
       "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
       "author": "Winston Churchill"
     },
     {
+      "id": 2,
       "quote": "The only way to do great work is to love what you do.",
       "author": "Steve Jobs"
     },
     {
+      "id": 3,
       "quote": "Your time is limited, don’t waste it living someone else’s life.",
       "author": "Steve Jobs"
     },
     {
+      "id": 4,
       "quote": "Believe you can and you’re halfway there.",
       "author": "Theodore Roosevelt"
     },
     {
+      "id": 5,
       "quote": "Hard work beats talent when talent doesn’t work hard.",
       "author": "Tim Notke"
     },
     {
+      "id": 6,
       "quote": "The future belongs to those who believe in the beauty of their dreams.",
       "author": "Eleanor Roosevelt"
     },
     {
+      "id": 7,
       "quote": "Don’t watch the clock; do what it does. Keep going.",
       "author": "Sam Levenson"
     },
     {
+      "id": 8,
       "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
       "author": "Winston Churchill"
     },
     {
+      "id": 9,
       "quote": "The only limit to our realization of tomorrow is our doubts of today.",
       "author": "Franklin D. Roosevelt"
     },
     {
+      "id": 10,
       "quote": "Dream big and dare to fail.",
       "author": "Norman Vaughan"
     },
     {
+      "id": 11,
       "quote": "The secret of getting ahead is getting started.",
       "author": "Mark Twain"
     },
     {
+      "id": 12,
       "quote": "If you want to lift yourself up, lift up someone else.",
       "author": "Booker T. Washington"
     },
     {
+      "id": 13,
       "quote": "You miss 100% of the shots you don’t take.",
       "author": "Wayne Gretzky"
     },
     {
+      "id": 14,
       "quote": "Do what you can, with what you have, where you are.",
       "author": "Theodore Roosevelt"
     },
     {
+      "id": 15,
       "quote": "The best way to predict the future is to create it.",
       "author": "Peter Drucker"
     },
     {
+      "id": 16,
       "quote": "Life is 10% what happens to us and 90% how we react to it.",
       "author": "Charles R. Swindoll"
     },
     {
+      "id": 17,
       "quote": "Strive not to be a success, but rather to be of value.",
       "author": "Albert Einstein"
     },
     {
+      "id": 18,
       "quote": "It always seems impossible until it’s done.",
       "author": "Nelson Mandela"
     },
     {
+      "id": 19,
       "quote": "The only person you are destined to become is the person you decide to be.",
       "author": "Ralph Waldo Emerson"
     },
     {
+      "id": 20,
       "quote": "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart.",
       "author": "Roy T. Bennett"
     },
     {
+      "id": 21,
       "quote": "The difference between a stumbling block and a stepping stone is how high you raise your foot.",
       "author": "Benny Lewis"
     },
     {
+      "id": 22,
       "quote": "You are never too old to set another goal or to dream a new dream.",
       "author": "C.S. Lewis"
     },
     {
+      "id": 23,
       "quote": "The journey of a thousand miles begins with one step.",
       "author": "Lao Tzu"
     },
     {
+      "id": 24,
       "quote": "If you don’t build your dream, someone else will hire you to help build theirs.",
       "author": "Tony Gaskins"
     },
     {
+      "id": 25,
       "quote": "Success is not the key to happiness. Happiness is the key to success.",
       "author": "Albert Schweitzer"
     },
     {
+      "id": 26,
       "quote": "The only place where success comes before work is in the dictionary.",
       "author": "Vidal Sassoon"
     },
     {
+      "id": 27,
       "quote": "Chase your dreams but always know the road that will lead you home again.",
       "author": "Tim McGraw"
     },
     {
+      "id": 28,
       "quote": "The harder you work for something, the greater you’ll feel when you achieve it.",
       "author": "Unknown"
     },
     {
+      "id": 29,
       "quote": "Don’t stop when you’re tired. Stop when you’re done.",
       "author": "David Goggins"
     },
     {
+      "id": 30,
       "quote": "Great things never come from comfort zones.",
       "author": "Neil Strauss"
     }
-  
-]
+  ]
